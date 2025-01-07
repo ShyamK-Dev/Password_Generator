@@ -1,1 +1,1 @@
-# Password_Generator
+Password Generator is a secure and easy-to-use web app that creates strong, random passwords to protect your online accounts. Customize the length, complexity, and character types (letters, numbers, symbols) to generate passwords that meet security standards. Whether for personal or business use, this tool ensures your passwords are unpredictable and safe from hackers. With just a click, you can generate and copy a password, helping you maintain robust security across your digital life without the hassle.
